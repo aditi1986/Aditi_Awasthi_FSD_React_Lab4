@@ -1,0 +1,86 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Airtel Internet Bill Expenses",
+      "payeeName": "VS",
+      "price": 1700,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Car Petrol Expenses",
+      "payeeName": "RK",
+      "price": 4000,
+      "date": "2023-03-16T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Electricity Bill - April Month",
+      "payeeName": "VS",
+      "price": 2200,
+      "date": "2023-05-06T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Dinner - Friday Night",
+      "payeeName": "RK",
+      "price": 2500,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Saturday - Movie",
+      "payeeName": "VS",
+      "price": 1500,
+      "date": "2023-05-26T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "expenseDescription": "Specs",
+      "payeeName": "VS",
+      "price": "1000",
+      "date": "2023-07-06T00:00:00.000Z",
+      "id": 6,
+      "name": "Expense-Entry-0"
+    },
+    {
+      "expenseDescription": "Xerox",
+      "payeeName": "HKS",
+      "price": "7",
+      "date": "2023-11-01T00:00:00.000Z",
+      "expenseDate": "2023-11-01",
+      "id": 7
+    },
+    {
+      "expenseDescription": "Curd",
+      "payeeName": "AD",
+      "price": 10,
+      "date": "2023-06-09T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "expenseDescription": "Courier",
+      "payeeName": "HKS",
+      "price": "2",
+      "date": "2023-11-10T00:00:00.000Z",
+      "expenseDate": "2023-11-01",
+      "id": 10
+    },
+    {
+      "expenseDescription": "CAB",
+      "price": "33",
+      "date": "2023-11-20T00:00:00.000Z",
+      "expenseDate": "2023-11-27",
+      "id": 14,
+      "payeeName": "DTA"
+    },
+    {
+      "expenseDescription": "Charger",
+      "price": "3",
+      "date": "2023-11-18T00:00:00.000Z",
+      "expenseDate": "2023-11-10",
+      "id": 23,
+      "payeeName": "DTA"
+    }
+  ]
+}
